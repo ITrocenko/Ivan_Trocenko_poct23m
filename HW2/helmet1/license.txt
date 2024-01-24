@@ -1,0 +1,11 @@
+Model Information:
+* title:	Inquisitor's Helmet
+* source:	https://sketchfab.com/3d-models/inquisitors-helmet-de59443d3e6344d8b2d51936ce5a91d9
+* author:	Efarys (https://sketchfab.com/Efarys)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Inquisitor's Helmet" (https://sketchfab.com/3d-models/inquisitors-helmet-de59443d3e6344d8b2d51936ce5a91d9) by Efarys (https://sketchfab.com/Efarys) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
