@@ -225,7 +225,7 @@
 	</div>
       </div>
 
-      <a-scene mindar-image="imageTargetSrc: ./targets_go.mind; showStats: false; uiScanning: #example-scanning-overlay;" embedded color-space="sRGB" renderer="colorManagement: true, physicallyCorrectLights" vr-mode-ui="enabled: false" device-orientation-permission-ui="enabled: false">
+      <a-scene mindar-image="imageTargetSrc: ./targets_2.mind; showStats: false; uiScanning: #example-scanning-overlay;" embedded color-space="sRGB" renderer="colorManagement: true, physicallyCorrectLights" vr-mode-ui="enabled: false" device-orientation-permission-ui="enabled: false">
         <a-assets>
           <img id="card" src="./card.jpg" />
           <img id="icon-web" src="./icons/web.png" />
@@ -287,7 +287,7 @@
             animation="property: scale; to: 1.2 1.2 1.2; dur: 1000; easing: easeInOutQuad; loop: true; dir: alternate"
           ></a-image>
 
-          <a-gltf-model id="avatar" rotation="0 0 0" position="0 -0.2 0" scale="0.02 0.02 0.02" src="#avatarModel"></a-gltf-model>
+          <a-gltf-model id="avatar" rotation="0 0 0" position="0 -0.2 0" scale="0.2 0.2 0.2" src="#avatarModel"></a-gltf-model>
 
           <a-text id="text" class="clickable" value="" color="black" align="center" width="2" position="0 -1 0" geometry="primitive:plane; height: 0.1; width: 2;" material="opacity: 0.5"></a-text>
         </a-entity>
